@@ -1,0 +1,9 @@
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\bin\Debug\Intuit.QuickBase.Client.dll
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\bin\Debug\Intuit.QuickBase.Client.pdb
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\bin\Debug\Intuit.QuickBase.Core.dll
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\bin\Debug\Intuit.QuickBase.Core.pdb
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\obj\Debug\Intuit.QuickBase.Client.csproj.AssemblyReference.cache
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\obj\Debug\Intuit.QuickBase.Client.csproj.CoreCompileInputs.cache
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\obj\Debug\Intuit.QuickBase.Client.csproj.CopyComplete
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\obj\Debug\Intuit.QuickBase.Client.dll
+C:\Users\QBAdmin\Source\Repos\QuickBase-C-Sharp-SDK\Intuit.QuickBase.Client\obj\Debug\Intuit.QuickBase.Client.pdb
