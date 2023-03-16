@@ -1,4 +1,5 @@
 ﻿using DCElectricWebAPI.Modules;
+using Intuit.QuickBase.Client;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
@@ -40,6 +41,14 @@ namespace DCElectricWebAPI.Controllers
 
             // gets the table definition
             var vJobsTable = appJL.GetTable(strTableId);
+
+            // query for jobs to purge
+            Query qJobs = new Query();
+            string jobNumber = "C2637";
+            QueryStrings getJob = new QueryStrings(7, ComparisonOperator.CT, jobNumber, LogicalOperator.NONE);  //3 is "record ID#"  7 is jobnumber
+            qJobs.Add(getJob);
+            vJobsTable.Query(qJobs);
+            
             return Ok(vJobsTable);
         }
     }
