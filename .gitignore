@@ -1,3 +1,8 @@
 .svn
 .gitignore
-bin\*
+.vs
+bin/
+obj/
+Debug/
+Release/
+/build/

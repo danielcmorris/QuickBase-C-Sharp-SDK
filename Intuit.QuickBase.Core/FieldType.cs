@@ -83,7 +83,7 @@ namespace Intuit.QuickBase.Core
         /// </summary>
         url,
         address,
-        multiuser,
+        multiuserid,
         multitext,
         // TODO: To be deleted.
         timestamp,
