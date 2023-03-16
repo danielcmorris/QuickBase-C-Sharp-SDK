@@ -82,7 +82,9 @@ namespace Intuit.QuickBase.Core
         /// URL-Link
         /// </summary>
         url,
-
+        address,
+        multiuser,
+        multitext,
         // TODO: To be deleted.
         timestamp,
         recordid,
