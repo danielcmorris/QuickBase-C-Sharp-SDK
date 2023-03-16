@@ -1,1 +1,3 @@
 .svn
+.gitignore
+bin\*
